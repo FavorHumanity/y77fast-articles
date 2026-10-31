@@ -8,9 +8,9 @@ Static HTML articles from Y77FAST SOFTWARE FOUNDATION. No scripts, external libr
 ## Published
 
 - `1/X11` — Why Identity Matters
-- `11/X11` — Digital ID: Who Holds the Keys?
+- `Article II/XII` — Digital ID: Who Holds the Keys?
 
-The `11/X11` article identifies **y77gct.fast — Air-Gapped Checkpoint Terminal** as a proposed Y77FAST project identifier, not a verified operational capability.
+The `Article II/XII` article identifies **y77gct.fast — Air-Gapped Checkpoint Terminal** as a proposed Y77FAST project identifier, not a verified operational capability.
 
 Future titles and identifiers remain unpublished until separately reviewed and approved.
 
